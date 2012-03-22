@@ -1,0 +1,17 @@
+Langton's Ant Simulation
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Turing machine demonstrated as Langton's Ant:
+http://en.wikipedia.org/wiki/Langton%27s_ant
+
+Press Space to close
+
+--
+
+Written in C++, MSVC++ 2010
+
+--
+
+ThatSnail
+thatsnail@gmail.com
+http://thatsnail.blogspot.com/
